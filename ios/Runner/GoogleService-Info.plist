@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>417217811142-lq69ud4lf4pc173qr3tgckc65ddm5j1m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.417217811142-lq69ud4lf4pc173qr3tgckc65ddm5j1m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCqYIZEOQZ5G8cOlS6qVphjjb0ROq8OtFY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>417217811142</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.josie.flutterstarter</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-weather-74383</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-weather-74383.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:417217811142:ios:310ca0485b3fe229c3fdc7</string>
+	<key>DATABASE_URL</key>
+	<string>https://flutter-weather-74383.firebaseio.com</string>
+</dict>
+</plist>

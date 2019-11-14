@@ -17,3 +17,15 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## How to open iOS XCode
+
+## Layout
+
+> https://flutter.dev/docs/development/ui/widgets/layout
+
+> https://flutter.dev/docs/development/ui/layout
+
+> https://flutter.dev/docs/development/ui/widgets
+
+## Redux
+
+> https://blog.novoda.com/introduction-to-redux-in-flutter/

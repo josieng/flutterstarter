@@ -22,7 +22,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" image="LaunchImage" translatesAutoresizingMaskIntoConstraints="NO" id="YRO-k0-Ey4">
-                                <rect key="frame" x="0.0" y="20" width="375" height="647"/>
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icWeather" translatesAutoresizingMaskIntoConstraints="NO" id="2Bw-wv-gM9">
                                 <rect key="frame" x="109.5" y="288" width="156" height="91"/>
@@ -34,8 +34,8 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="xbc-2k-c8Z" firstAttribute="top" secondItem="YRO-k0-Ey4" secondAttribute="bottom" id="0DL-QU-mvx"/>
-                            <constraint firstItem="YRO-k0-Ey4" firstAttribute="top" secondItem="Ydg-fD-yQy" secondAttribute="bottom" id="jWC-Pq-C2K"/>
+                            <constraint firstAttribute="bottom" secondItem="YRO-k0-Ey4" secondAttribute="bottom" id="0DL-QU-mvx"/>
+                            <constraint firstItem="YRO-k0-Ey4" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="jWC-Pq-C2K"/>
                             <constraint firstItem="2Bw-wv-gM9" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="p8s-wm-cyO"/>
                             <constraint firstItem="2Bw-wv-gM9" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="pMA-i8-hsG"/>
                             <constraint firstAttribute="trailing" secondItem="YRO-k0-Ey4" secondAttribute="trailing" id="vlo-Wz-b1W"/>
